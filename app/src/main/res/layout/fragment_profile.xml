@@ -52,7 +52,14 @@
 
     <LinearLayout
         android:layout_width="match_parent"
+<<<<<<< HEAD
         android:layout_height="205dp"
+||||||| eeb9018
+        android:layout_height="230dp"
+        android:layout_marginLeft="40dp"
+=======
+        android:layout_height="230dp"
+>>>>>>> e0b3bb28f8f801d9743b4d4cf04d77066c6eb7c0
         android:background="@drawable/undraw_cap"
         android:orientation="vertical">
 

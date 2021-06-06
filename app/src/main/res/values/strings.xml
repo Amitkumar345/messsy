@@ -66,9 +66,14 @@
     <string name="breakfast_image">Breakfast image</string>
     <string name="forgot_password">Forgot Password</string>
     <string name="get_password_reset_link">Get password reset link</string>
+<<<<<<< HEAD
     <string name="last_payment_details">Last Payment Details</string>
 
     <string name="logout">logout</string>
+||||||| eeb9018
+=======
+    <string name="last_payment_details">Last Payment Details</string>
+>>>>>>> e0b3bb28f8f801d9743b4d4cf04d77066c6eb7c0
 
 
 </resources>
